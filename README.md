@@ -7,5 +7,5 @@ If you are a mac or linux user follow the following steps to run my assignment.
 2. Go to directory
 > cd meacode_task
 
-3. To Run php files 
+3. To Run php files (repeat this step for all files)
 > ./findUniqueNumbers.php
