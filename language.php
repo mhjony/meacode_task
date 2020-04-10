@@ -35,7 +35,7 @@ $teacher->addLanguage('Bangla');
 $student = new LanguageStudent();
 $student->addLanguage('Finish');
 $student->addLanguage('English');
-$teacher->teach($student, 'Finish');
+$teacher->teach($student, 'English');
 #print_r($student->getLanguages());
 
 ?>

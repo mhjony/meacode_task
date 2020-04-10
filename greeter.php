@@ -34,8 +34,10 @@ class Greeter
 }
 
 $g = new Greeter('Chuck');
-#$g->enters('John');
-$g->enters('Chuck');
+$g->enters('John');
+$g->enters('Mahmudul');
+$g->enters('Hasan');
+#$g->enters('Chuck');
 echo $g->greet();
 
 ?>
